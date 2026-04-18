@@ -1,6 +1,6 @@
 # code-nav
 
-MCP Server — 语义级代码导航、影响面分析与三级 Wiki 系统。
+让Agent用上IDE。
 
 ## 安装
 
