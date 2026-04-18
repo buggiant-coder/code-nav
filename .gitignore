@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.code-nav/graph.db
+ideas/
+.pytest_cache/
+.mypy_cache/
+.claude/
